@@ -1,10 +1,11 @@
-﻿namespace HowToUseGitHubClassroom
+namespace HowToUseGitHubClassroom
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             // Enter your code where there is a prompt or to complete a task
+            Console.WriteLine("hi sir");
             // Commit your changes and push to github
             // Use the test data if given
             // Screenshot your program running with the test data given (if available)
@@ -21,6 +22,10 @@
             // Output to the console the variable
             // Output to the console Hello World
             // Test your program and add the evidence to this repository
+            Console.WriteLine("enter your name");
+            string name = Console.ReadLine();
+            Console.WriteLine(name);
+            Console.WriteLine("hello world");
         }
     }
 }
