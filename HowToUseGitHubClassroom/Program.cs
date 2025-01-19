@@ -21,11 +21,12 @@ namespace HowToUseGitHubClassroom
             // Store the user input in an appropriate variable
             // Output to the console the variable
             // Output to the console Hello World
-            // Test your program and add the evidence to this repository
+            // Test your program and add the evidence to this repository I NEED TO COMMITING
             Console.WriteLine("enter your name");
             string name = Console.ReadLine();
             Console.WriteLine(name);
             Console.WriteLine("hello world");
+            Console.WriteLine("im sorry sir but it didnt commiting so i couldent do the commiting part");
         }
     }
 }
